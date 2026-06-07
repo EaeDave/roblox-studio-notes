@@ -1,0 +1,6 @@
+# Obsidian config (local, não precisa versionar)
+.obsidian/
+
+# Sistema
+.DS_Store
+Thumbs.db
